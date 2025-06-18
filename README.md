@@ -1,2 +1,2 @@
-# Rock-Paper-Sacissors
+# Rock-Paper-Scissors
 Rock-Paper-Sacissors Using Python 
